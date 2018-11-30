@@ -1,6 +1,7 @@
 h1 {
   color: red;
   font-family: 'Kaushan Script', cursive;
+  text-align: center;
 }
 
 p {
@@ -10,6 +11,14 @@ p {
 
 body {
   background-color: black;
+}
+
+#inputs {
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 550px;
 }
 
 #stars {
