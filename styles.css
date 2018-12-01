@@ -15,7 +15,6 @@ body {
 
 #inputs {
   text-align: center;
-  display:flex;
   flex-direction: column;
   justify-content: center;
   padding-left: 550px;
