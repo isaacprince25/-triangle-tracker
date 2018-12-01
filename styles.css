@@ -5,7 +5,7 @@ h1 {
 }
 
 p {
-  color: red;
+  color:silver;
   font-family: 'Sedgwick Ave', cursive;
 }
 
@@ -23,7 +23,7 @@ body {
 #one{
   padding-left: 560px;
   padding-right: 550px;
-  padding-top: 20px;
+  padding-top: 30px;
 }
 
 #stars {
