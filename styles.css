@@ -18,6 +18,12 @@ body {
   flex-direction: column;
   justify-content: center;
   padding-left: 550px;
+  padding-right: 550px;
+}
+#one{
+  padding-left: 560px;
+  padding-right: 550px;
+  padding-top: 20px;
 }
 
 #stars {
