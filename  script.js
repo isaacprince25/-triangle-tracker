@@ -23,6 +23,6 @@ var side = function() {
     result = "scalene triangle";
     console.log(result);
     document.getElemntById("one").innerHTML = result;
-  }
+  }else (none)
 
 };

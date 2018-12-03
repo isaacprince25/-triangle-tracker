@@ -3,22 +3,33 @@ h1 {
   font-family: 'Kaushan Script', cursive;
   text-align: center;
 }
-h4{
-  color:red;
+
+h4 {
+  color: red;
   font-family: 'Kaushan Script', cursive;
-  font-size:20px;
-  padding-left:550px;
-  padding-right:350px;
+  font-size: 20px;
+  padding-left: 550px;
+  padding-right: 350px;
 }
 
 p {
-  color:silver;
+  color: red;
   font-family: 'Sedgwick Ave', cursive;
 }
 
 body {
-  background-color:black;
+  background-color: black;
 }
+
+footer {
+  color: red;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
 
 #inputs {
   text-align: center;
@@ -27,7 +38,8 @@ body {
   padding-left: 550px;
   padding-right: 550px;
 }
-#ones{
+
+#ones {
   padding-left: 560px;
   padding-right: 550px;
   padding-top: 30px;

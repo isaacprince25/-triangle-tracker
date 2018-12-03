@@ -21,6 +21,6 @@ var side = function() {
     result = "scalene triangle";
     alert(result);
     document.getElementById("one").innerHTML = result;
-  }
+  } else (none)
 
 };
