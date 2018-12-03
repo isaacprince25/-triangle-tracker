@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" type="text/css" href="styles.css">
-  <script src="scripts.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
   <title>triangle-tracker</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
@@ -12,25 +11,33 @@
   <div id='stars2'></div>
   <div id='stars3'></div>
   <div id='title'></div>
+
 </head>
 
 <body>
   <h1>Triangle Tracker</h1>
+  <h4>To find the type of triangle fill in the form below </h4>
 
   <div id="inputs">
-    First Number
-    <input type="number" name="firstside" value=""><br>
-    Second Number
-    <input type="number" name="secondside" value=""><br>
-    Third Number
-    <input type="number" name="thirdside" value=""><br>
+    <p>
+    one
+    <input id="one" type="number" name="firstside" value=""><br>
+    two
+    <input id="two" type="number" name="secondside" value=""><br>
+    three
+    <input id="three" type="number" name="thirdside" value=""><br>
+    <input type="button" name="submit" id="submit" onclick="side()" value="submit">
+    </p>
   </div>
 
-  <div id="one">
-    <button type="button" name="button"></button>
-  </div>
+  <p>
+    <output name="result"id="one"></output>
+  </p>
 
 
+
+
+<script type="text/javascript" src="scripts.js"> </script>
 </body>
 
 </html>
