@@ -1,5 +1,5 @@
-#Triangle tracker
-###the website enable the user to input numbers of side of a triangle and know which type of a triangle it is
+# Triangle tracker
+* the website enable the user to input numbers of side of a triangle and know which type of a triangle it is
 ## steps to use the triangle tracker
 * fork the repository
 * git clone the repository
