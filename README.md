@@ -15,11 +15,11 @@
 ### isaacprince
 
 ### BDD
-## - If the user enters three equal side --- an Equilateral triangle output pop-up appears
-## - If the user enters two eaqual side  --- an Isosceles trisngle output message is diplayed
-## - If the user no eaqual side          --- a scalene trianglr output pop-up is displayed
+* If the user enters three equal side --- an Equilateral triangle output pop-up appears
+* If the user enters two eaqual side  --- an Isosceles trisngle output message is diplayed
+* If the user no eaqual side          --- a scalene trianglr output pop-up is displayed
 
-### Live link
+* Live link
 ## use this link to view the web-page
 ##  https://isaacprince25.github.io/-triangle-tracker/
 
