@@ -1,6 +1,6 @@
 #Triangle tracker
 ###the website enable the user to input numbers of side of a triangle and know which type of a triangle it is
-## steps to use the trisngle tracker
+## steps to use the triangle tracker
 -fork the repository
 -git clone the repository
 -copy the URL when cloning
@@ -9,7 +9,8 @@
 ### html,styles.css,javascript
 ##author
 ###Isaac Prince
-##If you find any bugs find me \
+##If you find any bugs find me 
 ###isaacprince25@gmail.com
 ##list of contributors
 ###isaacprince
+
