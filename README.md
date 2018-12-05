@@ -5,7 +5,7 @@
 -git clone the repository
 -copy the URL when cloning
 -git push the folder to your git hub page
-##Medium used in creating the website
+Medium used in creating the website
 ### html,styles.css,javascript
 ##author
 ###Isaac Prince
